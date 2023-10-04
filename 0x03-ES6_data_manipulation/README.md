@@ -1,0 +1,1 @@
+data manipulaton in javascript

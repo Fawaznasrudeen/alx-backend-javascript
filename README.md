@@ -1,1 +1,1 @@
-Jabascript ALX Africa backend project
+This is a backend specialization repository for javascript at alx
